@@ -63,4 +63,4 @@ Queue management system for commercial applications
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/project_3D_developer_portfolio.git
+   git clone git clone https://github.com/yourusername/project_3D_developer_portfolio.git
